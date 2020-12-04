@@ -31,6 +31,7 @@ Manage Docker as a non-root user (No sudo anymore) : https://docs.docker.com/eng
 
 ## Database
 
+- All the db information (user, password,...) are in the docker.env file.
 - If you want to import a database, put the .sql file in the **data** folder.
 - Before the compose down make sure to export your database and put the .sql file in the **data** folder. 
 **If you don't do it you will lose your data with the compose down**
