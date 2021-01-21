@@ -42,5 +42,5 @@ Manage Docker as a non-root user (No sudo anymore) : https://docs.docker.com/eng
 
 ## Cheat sheet
 
-https://docs.google.com/presentation/d/1FJzsgxLP-wj0z22rHoGGY3yWyKQMHFfZWzMUdA_RRAU/edit#slide=id.gb0c8f2929f_0_20
+https://docs.google.com/presentation/d/1FJzsgxLP-wj0z22rHoGGY3yWyKQMHFfZWzMUdA_RRAU/edit?usp=sharing
 
